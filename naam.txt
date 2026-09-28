@@ -1,2 +1,6 @@
 Naam: Kobe
+<<<<<<< HEAD
 Studierichting: Cybersecurity en Cloud
+=======
+Leeftijd: 21
+>>>>>>> f093ac14d4ae3ceade55f29a7f29203389e85140
